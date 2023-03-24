@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineSharp.Core", "MineSharp.Core\MineSharp.Core.csproj", "{F766D40E-2890-43B5-9647-FCDAB5EDC6DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineSharp.Bot", "MineSharp.Bot\MineSharp.Bot.csproj", "{BE1F403C-749A-4AA1-A980-98BACB57ABC8}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Components", "Components", "{08FBDED7-F952-4266-BB96-93C475D53102}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineSharp.MojangAuth", "Components\MineSharp.MojangAuth\MineSharp.MojangAuth.csproj", "{9B8495C7-6AAD-403D-B2DC-E7786ECA08FF}"
@@ -40,10 +38,6 @@ Global
 		{F766D40E-2890-43B5-9647-FCDAB5EDC6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F766D40E-2890-43B5-9647-FCDAB5EDC6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F766D40E-2890-43B5-9647-FCDAB5EDC6DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BE1F403C-749A-4AA1-A980-98BACB57ABC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE1F403C-749A-4AA1-A980-98BACB57ABC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE1F403C-749A-4AA1-A980-98BACB57ABC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE1F403C-749A-4AA1-A980-98BACB57ABC8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9B8495C7-6AAD-403D-B2DC-E7786ECA08FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9B8495C7-6AAD-403D-B2DC-E7786ECA08FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B8495C7-6AAD-403D-B2DC-E7786ECA08FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
