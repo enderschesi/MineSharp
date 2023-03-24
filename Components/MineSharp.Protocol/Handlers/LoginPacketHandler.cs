@@ -89,7 +89,7 @@ namespace MineSharp.Protocol.Handlers
             if (b < 0)
             {
                 // toss in a negative sign if the interpreted number is negative
-                hex = "-" + (-b).ToString("x").TrimStart('0');
+                hex = "-" + BigInteger.Negate(b).ToString("x").TrimStart('0');
             } else
             {
                 hex = b.ToString("x").TrimStart('0');
